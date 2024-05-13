@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "./image/lightning-desert_219717-5238.jpg",
+        "img": "lightning-desert_219717-5238.jpg",
         "city": "Cairo&Giza",
         "description": "Make a wonderful visit to the Giza Pyramids and the Egyptian Museum. Enjoy visiting the Sphinx in the pyramids area, Tutankhamun’s treasure in the Egyptian Museum, Al-Muizz Street, Cairo Tower and Al-Azhar Mosque. All that and more through a trip to the Giza Pyramids and the Egyptian Museum.",
         "price": "2200",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "img": "./image/calin-stan-a8ZSKCBE1xk-unsplash.jpg",
+        "img": "calin-stan-a8ZSKCBE1xk-unsplash.jpg",
         "city": "Luxor",
         "description": "Spend a wonderful time in the city of Luxor and enjoy visiting the Karnak Temple, which is the\n       largest in the world. It is a complex of 6 temples called Amun, Mut, Khonsu, Monthu, Ipt, and\n       Ptah. This temple is considered one of the oldest temples in all parts of the world. Also enjoy\n       visiting The magnificent Luxor Temple was built by Amenhotep III in the Eighteenth Dynasty in\n       the New Kingdom and completed by Ramesses II in the Nineteenth Dynasty. Do not miss this\n       opportunity and visit these unique landmarks.",
         "price": "1500",
