@@ -19,7 +19,7 @@
 }
 
 *::selection {
-    background: var(--orange);
+    background: var(--navy);
     color: white;
 
 }
@@ -34,17 +34,17 @@ html {
 .btn {
     display: inline-block;
     margin-top: 1rem;
-    background: var(--orange);
+    background: var(--navy);
     color: white;
     padding: .8rem 3rem;
-    border: .2rem solid var(--orange);
+    border: .2rem solid var(--navy);
     cursor: pointer;
     font-size: 1.7rem;
 }
 
 .btn:hover {
     background: rgba(255, 165, 0, .2);
-    color: var(--orange);
+    color: var(--navy);
 }
 
 header {
@@ -69,7 +69,7 @@ header .logo {
 }
 
 header .logo span {
-    color: var(--orange);
+    color: var(--navy);
 }
 
 header .navbar a {
@@ -79,7 +79,7 @@ header .navbar a {
 }
 
 header .navbar a:hover {
-    color: var(--orange);
+    color: var(--navy);
 }
 
 header .icon i {
@@ -90,7 +90,7 @@ header .icon i {
 }
 
 header .icon i:hover {
-    color: var(--orange);
+    color: var(--navy);
 }
 
 header .search-bar-container {
@@ -128,7 +128,7 @@ header .search-bar-container label {
 }
 
 header .search-bar-container label:hover {
-    color: var(--orange);
+    color: var(--navy);
 
 }
 
@@ -176,7 +176,7 @@ header .search-bar-container label:hover {
 }
 
 .login-form-container form .box:focus {
-    border-color: var(--orange);
+    border-color: var(--navy);
 }
 
 .login-form-container form #remember {
@@ -199,7 +199,7 @@ header .search-bar-container label:hover {
 }
 
 .login-form-container form p a {
-    color: var(--orange);
+    color: var(--navy);
 
 }
 
@@ -302,17 +302,17 @@ body {
 }
 
 *::selection {
-    background-color: orange;
+    background-color: navy;
     color: #fff;
 }
 
 .btn {
 
     display: inline-block;
-    background-color: orange;
+    background-color: navy;
     color: #fff;
     padding: 0 1.5rem;
-    border: 1.1rem solid orange;
+    border: 1.1rem solid navy;
     font-size: 1.4rem;
     cursor: pointer;
 
@@ -323,7 +323,7 @@ body {
 .btn:hover {
     background: rgba(255, 165, 0, 0.2);
     /* background: black; */
-    color: orange;
+    color: navy;
 }
 
 
@@ -432,7 +432,7 @@ section {
 .heading span {
     font-size: 3.5rem;
     background: rgb(255, 165, 0, .2);
-    color: var(--orange);
+    color: var(--navy);
     border-radius: .5rem;
     padding: 2rem 1rem;
 
@@ -496,7 +496,7 @@ section {
 
     font-size: 3.5rem;
     background: rgb(255, 165, 0, .2);
-    color: var(--orange);
+    color: var(--navy);
     border-radius: .5rem;
     padding: 2rem 1rem;
 }
@@ -678,7 +678,7 @@ section {
 }
 
 .heading span {
-    background-color: orange;
+    background-color: navy;
     padding: 1rem;
     border-radius: .5rem;
 }
